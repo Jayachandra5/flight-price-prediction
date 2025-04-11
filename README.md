@@ -31,7 +31,7 @@
 * Prerequisites: [Python 3.9](https://www.python.org/downloads/)
 * Open Terminal >> navigate to working directory >> Clone this Github Repo (or download project files from GitHub directly)
 
-        git clone https://github.com/skillcate/flight-price-prediction.git  
+       git clone https://github.com/Jayachandra5/flight-price-prediction.git
 * Navigate to project working directory (cloned repo folder)
 * Run Project in Flask (Using PIP + Virtualenv)
 
